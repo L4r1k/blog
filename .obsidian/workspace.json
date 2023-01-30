@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/file1.md",
+                "file": "content/file3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/file1.md",
+                "file": "content/file3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/file1.md",
+                "file": "content/file3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/file1.md"
+                "file": "content/file3.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "09be1adc689e8156",
   "lastOpenFiles": [
-    "content/file2.md",
-    "content/file3.md",
     "content/file4.md",
+    "content/file3.md",
+    "content/file2.md",
     "content/file1.md",
     "Blogs/index.md",
     "Blogs/Photobomb.md"
