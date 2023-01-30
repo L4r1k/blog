@@ -10,5 +10,5 @@ share: true
 | [test](nesting%20tes/test.md.md)                 | \-    |
 
 
-[test two](test%20two.md)
+[test two](./nesting%20test/test%20two.md)
 
