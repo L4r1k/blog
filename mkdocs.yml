@@ -1,4 +1,11 @@
 site_name: L4r1k
+site_url: https://l4r1k.github.io/blog/
+repo_url: https://github.com/L4r1k/blog/
+repo_name: GitHub
+site_description: WEB DEVELOPER TURNED CLOUD SECURITY RESEARCHER. THREAT HUNTING/DEVSECOPS/FORENSICS. DRINKER OF DIET COKE. DON'T REPEAT, AUTOMATE.
+site_author: L4r1k
+remote_branch: gh-pages
+remote_name: origin
 theme:
   name: material
   palette:
@@ -16,3 +23,5 @@ theme:
     toggle:
       icon: material/weather-night
       name: Switch to dark mode
+nav:
+  - "Blog": "https://l4r1k.com"   
